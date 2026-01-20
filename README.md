@@ -39,11 +39,11 @@ Mô hình được huấn luyện và đánh giá trên bộ dữ liệu **KTVIC
 
 | Metric | CNN + LSTM | **ViClipCap (Ours)** | Cải thiện |
 | :--- | :---: | :---: | :---: |
-| **BLEU-4** | 0.2572 | **0.3431** | 🟢 +33% |
-| **ROUGE-L** | 0.4895 | **0.5204** | 🟢 +6% |
-| **CIDEr** | 0.6282 | **0.8127** | 🟢 +29% |
-| **METEOR** | 0.2995 | **0.3194** | 🟢 +6% |
-| **SPICE** | 0.0782 | **0.0829** | 🟢 +6% |
+| **BLEU-4** | 0.2572 | **0.3431** | 🟢 +8% |
+| **ROUGE-L** | 0.4895 | **0.5204** | 🟢 +3% |
+| **CIDEr** | 0.6282 | **0.8127** | 🟢 +18% |
+| **METEOR** | 0.2995 | **0.3194** | 🟢 +2% |
+| **SPICE** | 0.0782 | **0.0829** | 🟢 +1% |
 
 > **Nhận xét:** ViClipCap vượt trội hoàn toàn trên mọi chỉ số, đặc biệt là CIDEr (độ tương đồng ngữ nghĩa) và BLEU-4 (độ chính xác từ vựng).
 
