@@ -24,7 +24,6 @@ Hệ thống ViClipCap bao gồm 3 thành phần chính:
 3.  **Decoder (Frozen):** Mô hình `Vietnamese GPT-2` nhận chuỗi Prefix và sinh ra câu mô tả tiếng Việt tự nhiên.
 
 ![Architecture](./images/architecture.jpg)
-*(Lưu ý: Thay thế đường dẫn `./images/architecture.jpg` bằng file ảnh kiến trúc tổng quan trong slide của bạn)*
 
 ### Điểm nổi bật kỹ thuật:
 * **Lightweight:** Chỉ cập nhật tham số $\theta$ của Mapping Network.
